@@ -1,4 +1,4 @@
-# 🚀 AWS Serverless Data Pipeline
+<img width="1680" height="969" alt="Screenshot 2026-04-22 at 2 28 16 AM" src="https://github.com/user-attachments/assets/db369c5d-2b59-46e5-be66-243dae931d19" /># 🚀 AWS Serverless Data Pipeline
 
 This project demonstrates a complete **event-driven serverless architecture** built using AWS services.
 
@@ -47,7 +47,8 @@ The system processes data using AWS Lambda, stores it in DynamoDB, and handles f
 
 ## 🗄️ DynamoDB Data
 
-![DynamoDB](screenshots/dynamodb.png)
+![DynamoDB] [Uploading Screenshot 2026-04-22 at 2.28.16 AM.png…]()
+
 
 ---
 
