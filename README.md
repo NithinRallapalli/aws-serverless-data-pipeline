@@ -41,7 +41,7 @@ The system processes data using AWS Lambda, stores it in DynamoDB, and handles f
 
 ## 📊 API Example
 
-![API Output](![API Output](https://github.com/user-attachments/assets/f53eb220-d49b-4f3d-a1ca-0a685d724d0f)
+![API Output](https://github.com/user-attachments/assets/f53eb220-d49b-4f3d-a1ca-0a685d724d0f)
 
 ---
 
