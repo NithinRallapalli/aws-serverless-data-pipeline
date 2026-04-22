@@ -1,3 +1,4 @@
+# 🚀 AWS Serverless Data Pipeline
 
 This project demonstrates a complete **event-driven serverless architecture** built using AWS services.
 
@@ -11,8 +12,7 @@ The system processes data using AWS Lambda, stores it in DynamoDB, and handles f
 
 ## 🏗️ Architecture
 
-![Architecture] <img width="903" height="514" alt="Screenshot 2026-04-22 at 6 47 08 PM" src="https://github.com/user-attachments/assets/eebe57dc-c84f-45a1-a206-02bc4f4fe0d2" />
-
+![Architecture](screenshots/architecture.png)
 
 ---
 
@@ -36,6 +36,30 @@ The system processes data using AWS Lambda, stores it in DynamoDB, and handles f
 4. If processing fails → message sent to SQS
 5. Logs are captured in CloudWatch
 6. API Gateway retrieves data via Lambda
+
+---
+
+## 📊 API Example
+
+![API Output](screenshots/api-output.png)
+
+---
+
+## 🗄️ DynamoDB Data
+
+![DynamoDB](screenshots/dynamodb.png)
+
+---
+
+## 📥 SQS Failure Queue
+
+![SQS](screenshots/sqs.png)
+
+---
+
+## 📈 CloudWatch Logs
+
+![CloudWatch](screenshots/cloudwatch.png)
 
 ---
 
