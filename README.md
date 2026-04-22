@@ -1,4 +1,4 @@
-<img width="1680" height="929" alt="Screenshot 2026-04-22 at 6 35 01 PM" src="https://github.com/user-attachments/assets/4866a48b-635d-4908-a672-4da93cacccfc" /><img width="1680" height="969" alt="Screenshot 2026-04-22 at 2 28 16 AM" src="https://github.com/user-attachments/assets/db369c5d-2b59-46e5-be66-243dae931d19" /># 🚀 AWS Serverless Data Pipeline
+# 🚀 AWS Serverless Data Pipeline
 
 This project demonstrates a complete **event-driven serverless architecture** built using AWS services.
 
@@ -12,7 +12,7 @@ The system processes data using AWS Lambda, stores it in DynamoDB, and handles f
 
 ## 🏗️ Architecture
 
-[Architecture]<img width="903" height="514" alt="Screenshot 2026-04-22 at 6 47 08 PM" src="https://github.com/user-attachments/assets/cd61173a-2d72-4998-bb8f-cf6b47520033" />
+![Architecture](https://github.com/user-attachments/assets/cd61173a-2d72-4998-bb8f-cf6b47520033)
 
 ---
 
@@ -41,29 +41,25 @@ The system processes data using AWS Lambda, stores it in DynamoDB, and handles f
 
 ## 📊 API Example
 
-![API Output](screenshots/api-output.png)
+![API Output](https://github.com/user-attachments/assets/db369c5d-2b59-46e5-be66-243dae931d19)
 
 ---
 
 ## 🗄️ DynamoDB Data
 
-[DynamoDB] Uploading Screenshot 2026-04-22 at 2.28.16 AM.png…
-
+![DynamoDB](https://github.com/user-attachments/assets/db369c5d-2b59-46e5-be66-243dae931d19)
 
 ---
 
 ## 📥 SQS Failure Queue
 
-![SQS] [Uploading Screenshot 2026-04-22 at 6.35.01 PM.png…]()
-
+![SQS](https://github.com/user-attachments/assets/4866a48b-635d-4908-a672-4da93cacccfc)
 
 ---
 
 ## 📈 CloudWatch Logs
 
-![CloudWatch] <img width="1680" height="929" alt="Screenshot 2026-04-22 at 5 41 28 PM" src="https://github.com/user-attachments/assets/19958696-009f-488a-bf2a-77da0753d50d" />
-
-
+![CloudWatch](https://github.com/user-attachments/assets/19958696-009f-488a-bf2a-77da0753d50d)
 
 ---
 
@@ -94,23 +90,23 @@ def lambda_handler(event, context):
 
 ## 💡 Key Learnings
 
-- Event-driven architecture design
-- Serverless application development
-- Error handling using SQS (DLQ)
-- API integration with Lambda
-- Monitoring using CloudWatch
+- Event-driven architecture design  
+- Serverless application development  
+- Error handling using SQS (DLQ)  
+- API integration with Lambda  
+- Monitoring using CloudWatch  
 
 ---
 
 ## 🚀 Future Improvements
 
-- Add authentication (JWT / Cognito)
-- Implement CI/CD pipeline
-- Add retry mechanisms with Step Functions
-- Infrastructure as Code (Terraform / CloudFormation)
+- Add authentication (JWT / Cognito)  
+- Implement CI/CD pipeline  
+- Add retry mechanisms with Step Functions  
+- Infrastructure as Code (Terraform / CloudFormation)  
 
 ---
 
 ## 📌 Author
 
-Nithin Rallapalli
+**Nithin Rallapalli**
