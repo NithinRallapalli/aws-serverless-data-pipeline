@@ -39,30 +39,6 @@ The system processes data using AWS Lambda, stores it in DynamoDB, and handles f
 
 ---
 
-## 📊 API Example
-
-![API Output](screenshots/api-output.png)
-
----
-
-## 🗄️ DynamoDB Data
-
-![DynamoDB](screenshots/dynamodb.png)
-
----
-
-## 📥 SQS Failure Queue
-
-![SQS](screenshots/sqs.png)
-
----
-
-## 📈 CloudWatch Logs
-
-![CloudWatch](screenshots/cloudwatch.png)
-
----
-
 ## 🧪 Sample Lambda Code
 
 ```python
