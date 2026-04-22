@@ -47,7 +47,7 @@ The system processes data using AWS Lambda, stores it in DynamoDB, and handles f
 
 ## 🗄️ DynamoDB Data
 
-![DynamoDB] [Uploading Screenshot 2026-04-22 at 2.28.16 AM.png…]()
+[DynamoDB] Uploading Screenshot 2026-04-22 at 2.28.16 AM.png…
 
 
 ---
