@@ -1,4 +1,4 @@
-<img width="1680" height="969" alt="Screenshot 2026-04-22 at 2 28 16 AM" src="https://github.com/user-attachments/assets/db369c5d-2b59-46e5-be66-243dae931d19" /># 🚀 AWS Serverless Data Pipeline
+<img width="1680" height="929" alt="Screenshot 2026-04-22 at 6 35 01 PM" src="https://github.com/user-attachments/assets/4866a48b-635d-4908-a672-4da93cacccfc" /><img width="1680" height="969" alt="Screenshot 2026-04-22 at 2 28 16 AM" src="https://github.com/user-attachments/assets/db369c5d-2b59-46e5-be66-243dae931d19" /># 🚀 AWS Serverless Data Pipeline
 
 This project demonstrates a complete **event-driven serverless architecture** built using AWS services.
 
@@ -54,13 +54,16 @@ The system processes data using AWS Lambda, stores it in DynamoDB, and handles f
 
 ## 📥 SQS Failure Queue
 
-![SQS](screenshots/sqs.png)
+![SQS] [Uploading Screenshot 2026-04-22 at 6.35.01 PM.png…]()
+
 
 ---
 
 ## 📈 CloudWatch Logs
 
-![CloudWatch](screenshots/cloudwatch.png)
+![CloudWatch] <img width="1680" height="929" alt="Screenshot 2026-04-22 at 5 41 28 PM" src="https://github.com/user-attachments/assets/19958696-009f-488a-bf2a-77da0753d50d" />
+
+
 
 ---
 
