@@ -12,7 +12,8 @@ The system processes data using AWS Lambda, stores it in DynamoDB, and handles f
 
 ## 🏗️ Architecture
 
-![Architecture](screenshots/architecture.png)
+![Architecture](<img width="903" height="514" alt="Screenshot 2026-04-22 at 6 47 08 PM" src="https://github.com/user-attachments/assets/cd61173a-2d72-4998-bb8f-cf6b47520033" />
+)
 
 ---
 
